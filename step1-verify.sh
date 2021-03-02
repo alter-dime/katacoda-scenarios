@@ -1,0 +1,1 @@
+(( $(cat /resources/sample.csv | grep -i nexus | wc -l) >= 1 )) && echo "done"
