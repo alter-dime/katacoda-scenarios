@@ -1,18 +1,8 @@
-Let's run through the questions
+General Kubernetes test
 
 ### Questions
-1. Print csv file `/resources/sample.csv`
-2. Print all the last name from the file, eg
-```
-Last name
-Booker
-Grey
-Smith
-Jenkins
-Smith
-```
-3. Replace `Smith` with `Jackson`
-4. Add the following to end of the file
-```
-nexus12;1234;Nexus;Co
-```
+1. Print the version and cluster details
+2. Print all the namespaces
+3. Print all the pods in namespace `kube-system`
+4. Create namespace `app`
+5. Create a pod with image `busybox` with name `test-busybox` in ns `app`

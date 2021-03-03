@@ -1,1 +1,1 @@
-Sample scenario for test
+Sample scenarios for test

@@ -1,0 +1,1 @@
+(( $(kubectl get namespace app | wc -l) >= 1 )) && echo "done"

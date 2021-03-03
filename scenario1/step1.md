@@ -1,4 +1,4 @@
-Let's run through the questions
+General shell scripting
 
 ### Questions
 1. Print csv file `/resources/sample.csv`
