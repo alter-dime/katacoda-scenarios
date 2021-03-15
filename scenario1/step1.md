@@ -14,7 +14,8 @@ General shell scripting
     ```
 
 3. Replace `Smith` with `Jackson`
-4. Add the following to end of the file without the editor eg vi, nano
+4. Count words in the file `sample.csv`
+5. Add the following to end of the file without the editor eg vi, nano
 
     ```
     nexus12;1234;Nexus;Co

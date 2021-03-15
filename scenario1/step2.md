@@ -5,4 +5,5 @@ General Kubernetes test
 2. Print all the namespaces
 3. Print all the pods in namespace `kube-system`
 4. Create namespace `app`
-5. Create a pod with image `busybox` with name `test-busybox` in ns `app`
+5. Set `app` as your working namespace context
+6. Create a pod with image `busybox` with name `test-busybox` in ns `app`
